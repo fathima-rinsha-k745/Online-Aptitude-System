@@ -1,0 +1,50 @@
+Find next: 2,6,12,20,?|26|28|30|32|30
+Find next: 3,9,27,?|54|72|81|90|81
+Find next: 5,10,20,40,?|60|70|80|90|80
+Find next: 7,14,28,?|42|49|56|63|56
+Find next: 4,9,16,25,?|30|35|36|40|36
+Odd one: 2,4,8,16,18?|2|4|8|18|18
+Odd one: 3,9,27,81,90?|3|9|27|90|90
+Odd one: 5,10,15,22,25?|5|10|15|22|22
+Odd one: 7,14,21,29?|7|14|21|29|29
+Odd one: 11,13,17,19,21?|11|13|17|21|21
+Coding: CAT→DBU, DOG→?|EPH|EPI|EOG|DPH|EPH
+Coding: BAT→CBU, RAT→?|SBU|SBT|SCT|RBU|SBU
+Coding: PEN→QFO, INK→?|JOL|JNL|JMK|JPL|JOL
+Coding: MAP→NBQ, TAP→?|UBQ|UBR|TBQ|UBP|UBQ
+Coding: SUN→TVO, MOON→?|NPPQ|NPPN|NQQP|NPOO|NPPQ
+Syllogism: All cats animals, some animals dogs. Conclusion?|Some cats dogs|Some dogs animals|All dogs cats|No cats dogs|Some dogs animals
+All roses flowers, some flowers red. Conclusion?|All roses red|Some roses red|Some flowers roses|None|Some flowers roses
+All apples fruits, all fruits healthy. Conclusion?|All apples healthy|Some apples healthy|No apples healthy|Some fruits apples|All apples healthy
+Some boys tall, all tall strong. Conclusion?|All boys strong|Some boys strong|No boys strong|Some strong boys|Some boys strong
+All pens blue, some blue costly. Conclusion?|All pens costly|Some pens costly|No pens costly|Some costly pens|Some pens costly
+A north 10m, east 5m, south 10m. Distance from start?|0|5|10|15|5
+A west 6m, north 8m. Distance?|10|12|14|16|10
+A east 9m, south 12m. Distance?|13|15|17|21|15
+Clock angle at 3:30?|75|80|85|90|75
+Clock angle at 6:00?|150|180|120|90|180
+If today Monday, day after 45 days?|Tuesday|Wednesday|Thursday|Friday|Wednesday
+If today Friday, day after 10 days?|Sunday|Monday|Tuesday|Wednesday|Monday
+5 persons in row, A left of B. Who middle?|A|B|C|D|C
+If P>Q, Q>R, who smallest?|P|Q|R|None|R
+If A taller B, B taller C. Who shortest?|A|B|C|None|C
+Venn: All cars vehicles, some vehicles fast. Conclusion?|All cars fast|Some cars fast|No cars fast|None|Some cars fast
+Venn: All birds fly, penguin bird. Conclusion?|Penguin fly|Some birds fly|All birds penguin|None|Penguin fly
+Next letter: A,C,E,G,?|H|I|J|K|I
+Next letter: B,E,H,K,?|M|N|O|P|N
+Next letter: Z,X,V,T,?|S|R|Q|P|R
+Mirror of 123?|321|213|132|312|321
+Water image of 69?|96|69|66|99|96
+If 1=3,2=6,3=9,4=?|10|11|12|13|12
+If 5→25,7→49,9→?|64|72|81|90|81
+If 2→8,3→27,4→?|32|64|81|100|64
+Missing: 2,4,?,16,32|6|8|10|12|8
+Missing: 3,6,12,?,48|18|20|24|30|24
+Missing: 5,15,?,135|30|35|45|50|45
+Direction: N→E→S→W total turn?|90|180|270|360|360
+If south becomes east, west becomes?|North|South|East|West|North
+Ranking: A>B>C>D. Who 2nd?|A|B|C|D|B
+If x>y>z>w smallest?|x|y|z|w|w
+Family: Father’s brother?|Uncle|Cousin|Nephew|Son|Uncle
+Mother’s sister?|Aunt|Cousin|Niece|Sister|Aunt
+Brother’s son?|Nephew|Uncle|Cousin|Son|Nephew

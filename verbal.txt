@@ -1,0 +1,47 @@
+Synonym of Abate?|Increase|Reduce|Grow|Expand|Reduce
+Synonym of Candid?|Honest|Hidden|Silent|Rude|Honest
+Synonym of Diligent?|Lazy|Careful|Hardworking|Weak|Hardworking
+Synonym of Eloquent?|Fluent|Silent|Rough|Weak|Fluent
+Synonym of Frugal?|Wasteful|Economical|Rich|Expensive|Economical
+Antonym of Benevolent?|Kind|Cruel|Happy|Soft|Cruel
+Antonym of Cautious?|Careful|Bold|Alert|Aware|Bold
+Antonym of Hostile?|Friendly|Angry|Violent|Rude|Friendly
+Antonym of Scarce?|Rare|Limited|Abundant|Small|Abundant
+Antonym of Vivid?|Bright|Dull|Clear|Sharp|Dull
+Choose correct: He ___ to office daily|go|goes|going|gone|goes
+Choose correct: They ___ playing now|is|are|was|be|are
+Choose correct: I ___ finished my work|has|have|had|having|have
+Choose correct: She ___ a doctor|is|are|am|be|is
+Choose correct: We ___ late yesterday|was|were|is|are|were
+Fill blank: She is fond ___ music|of|in|at|on|of
+Fill blank: He insisted ___ going|on|in|at|for|on
+Fill blank: They are good ___ maths|in|on|at|for|at
+Fill blank: She suffers ___ fever|from|with|at|on|from
+Fill blank: He is married ___ her|with|to|on|at|to
+Idiom: Break the ice?|Start conversation|Sleep|Fight|Ignore|Start conversation
+Idiom: Hit the sack?|Work hard|Sleep|Travel|Fight|Sleep
+Idiom: Piece of cake?|Very easy|Very hard|Costly|Large|Very easy
+Idiom: Once in blue moon?|Rarely|Often|Daily|Never|Rarely
+Idiom: Spill the beans?|Hide secret|Reveal secret|Cook food|Talk loudly|Reveal secret
+One word: One who writes books?|Author|Reader|Painter|Editor|Author
+One word: One who studies stars?|Astronomer|Geologist|Biologist|Chemist|Astronomer
+One word: Fear of heights?|Acrophobia|Hydrophobia|Claustrophobia|Arachnophobia|Acrophobia
+One word: One who loves mankind?|Philanthropist|Misanthrope|Introvert|Extrovert|Philanthropist
+One word: One who compiles dictionary?|Lexicographer|Editor|Writer|Poet|Lexicographer
+Choose correct spelling|Accomodate|Accommodate|Acommodate|Acomodate|Accommodate
+Choose correct spelling|Definate|Definite|Defenite|Definatte|Definite
+Choose correct spelling|Seperate|Separate|Seprate|Seperete|Separate
+Choose correct spelling|Recieve|Receive|Receeve|Receve|Receive
+Choose correct spelling|Occured|Occurred|Occureded|Occuried|Occurred
+Active to passive: Ram wrote letter?|Letter written|Letter was written|Letter writes|Letter write|Letter was written
+Active to passive: She sings song?|Song sung|Song is sung|Song sings|Song sing|Song is sung
+Active to passive: They play game?|Game played|Game is played|Game plays|Game play|Game is played
+Correct tense: I ___ him yesterday|see|saw|seen|seeing|saw
+Correct tense: She ___ lunch now|eat|eats|eating|is eating|is eating
+Correct tense: They ___ match already|win|won|have won|winning|have won
+Error spotting: He do not know?|do→does|not→no|know→knows|He→Him|do→does
+Error spotting: She have done?|have→has|done→did|She→Her|No error|have→has
+Error spotting: They was late?|was→were|late→later|They→Them|No error|was→were
+Choose correct article: ___ honest man|a|an|the|no|an
+Choose correct article: ___ university|a|an|the|no|a
+Choose correct article: ___ sun rises|a|an|the|no|the
